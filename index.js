@@ -3,7 +3,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Hello SLIIT updated rom CICD!')
+  res.send('Hello SLIIT FK yea!')
 })
 
 app.listen(port, () => {
